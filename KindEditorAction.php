@@ -5,7 +5,7 @@ namespace jjbx\kindeditor;
 use Yii;
 use yii\base\Action;
 use yii\helpers\ArrayHelper;
-use pjkui\kindeditor\Services_JSON;
+use jjbx\kindeditor\Services_JSON;
 
 class KindEditorAction extends Action {
 
