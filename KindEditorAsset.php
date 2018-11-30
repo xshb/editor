@@ -7,8 +7,8 @@ use yii\web\AssetBundle;
 class KindEditorAsset extends AssetBundle {
     //put your code here
     public $js=[
-        'kindeditor-min.js',
-        'lang/zh_CN.js',//configure UI language, if you want to use english, then configure it to "lang/en.js"
+        'kindeditor-all-min.js',
+        'lang/zh-CN.js',//configure UI language, if you want to use english, then configure it to "lang/en.js"
        // 'kindeditor.js'
     ];
     public $css=[
